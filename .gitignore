@@ -1,0 +1,21 @@
+/node_modules
+/node_modules
+/public/storage
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+/public_html/public/socketjs/config-server.js
+/public/build
+/public/css
+/public/js
+/demo
+.htaccess
+/public/images/events/*
+/public/images/users/*
+/_bu
+/OLD_ROOT_FILE
+*.zip
+/public/videos/Wren - The prophecy is true..mp4
+/public/videos/test-vid.avi
